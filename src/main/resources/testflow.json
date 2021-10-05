@@ -1,0 +1,6 @@
+{
+  "url": "https://www.t-systems.com/",
+  "accept_cookies": false,
+  "text_to_find": "help",
+  "expected_result": "Technology"
+}
